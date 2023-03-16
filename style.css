@@ -9,7 +9,7 @@
 nav {
   display: flex;
   gap: 23px;
-  margin-top: 44px;
+  margin-top: 20px;
   margin-left: 76px;
   align-items: center;
 }
@@ -79,4 +79,11 @@ nav ul li a {
 
 #button-logIn:active {
   opacity: 0.6;
+}
+
+/* INICIO DE ESTILIZAÇÃO DA DIV */
+
+#div-container {
+  display: flex;
+  margin: 70px 125px 0 125px;
 }
