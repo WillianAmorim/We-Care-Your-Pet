@@ -26,3 +26,10 @@ nav ul li a {
   line-height: 29px;
   color: #989D9C;
 }
+
+#button-logIn {
+  height: 41px;
+  width: 130px;
+  border-radius: 20.5px;
+  background: #665AE1;
+}
