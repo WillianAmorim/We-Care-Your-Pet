@@ -85,5 +85,7 @@ nav ul li a {
 
 #div-container {
   display: flex;
+  gap: 70px;
   margin: 70px 125px 0 125px;
 }
+
