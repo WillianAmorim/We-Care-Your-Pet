@@ -86,6 +86,12 @@ nav ul li a {
 #div-container {
   display: flex;
   gap: 70px;
-  margin: 70px 125px 0 125px;
+  margin: 70px 50px 0 50px;
 }
 
+#second-section h1 {
+  font-weight: 900;
+  font-size: 100px;
+  line-height: 122px;
+  color: #515151;
+}
