@@ -151,5 +151,27 @@ nav ul li a {
     display: none;
   }
 
+  #second-section {
+    text-align: center;
+  }
+
+  #second-section h1 {
+    font-size: 50px;
+    line-height: 61px;
+  }
+
+  #second-section h2 {
+    font-size: 30px;
+    line-height: 37px;
+    margin-top: 7px;
+  }
+
+  #second-section p {
+    display: none;
+  }
+
+  #second-section button {
+    margin-top: 17px;
+  }
 
 }
