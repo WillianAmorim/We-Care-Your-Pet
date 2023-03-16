@@ -33,4 +33,9 @@ nav ul li a {
   width: 130px;
   border-radius: 20.5px;
   background: #665AE1;
+  border: 1px solid #665AE1;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
 }
