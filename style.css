@@ -89,6 +89,10 @@ nav ul li a {
   margin: 70px 50px 0 50px;
 }
 
+#img-mobile {
+  display: none;
+}
+
 #second-section h1 {
   font-weight: 900;
   font-size: 100px;
@@ -126,4 +130,18 @@ nav ul li a {
 
 #second-section button:active {
   opacity: 0.6;
+}
+
+@media (max-width: 480px) {
+  nav {
+    display: none;
+  }
+
+  #img-mobile {
+    display: block;
+  }
+
+  #img-web {
+    display: none;
+  }
 }
