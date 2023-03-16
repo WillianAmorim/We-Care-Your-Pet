@@ -71,3 +71,12 @@ nav ul li a {
   line-height: 29px;
   color: #FFFFFF;
 }
+
+#button-logIn:hover {
+  background-color: #FFFFFF;
+  color: #665AE1;
+}
+
+#button-logIn:active {
+  opacity: 0.6;
+}
