@@ -140,6 +140,7 @@ nav ul li a {
   #div-container {
     flex-direction: column;
     margin: 100px 0 24px 0;
+    align-items: center;
   }
 
   #img-mobile {
@@ -149,4 +150,6 @@ nav ul li a {
   #img-web {
     display: none;
   }
+
+
 }
