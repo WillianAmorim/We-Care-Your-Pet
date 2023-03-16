@@ -123,3 +123,7 @@ nav ul li a {
   margin-top: 60px;
   border: #ADFF00;
 }
+
+#second-section button:active {
+  opacity: 0.6;
+}
