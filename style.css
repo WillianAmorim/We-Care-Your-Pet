@@ -43,6 +43,10 @@ nav > ul > li > button {
   color: #FFFFFF;
 }
 
+#div-container {
+  display: flex;
+}
+
 @media (max-width: 480px) {
   
 }
