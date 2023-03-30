@@ -25,6 +25,21 @@ button {
 
 nav > ul > li > button {
   background-color: transparent;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #989D9C;
+}
+
+#button-logIn {
+  width: 130px;
+  height: 41px;
+  background: #665AE1;
+  border-radius: 20.5px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
 }
 
 @media (max-width: 480px) {
