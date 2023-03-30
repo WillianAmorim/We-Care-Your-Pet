@@ -12,6 +12,7 @@ nav {
 
 nav > ul {
   display: flex;
+  list-style: none;
 }
 
 @media (max-width: 480px) {
