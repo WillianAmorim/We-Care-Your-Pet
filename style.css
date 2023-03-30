@@ -19,6 +19,14 @@ nav > ul {
   gap: 25px;
 }
 
+button {
+  border: none;
+}
+
+nav > ul > li > button {
+  background-color: transparent;
+}
+
 @media (max-width: 480px) {
   
 }
