@@ -43,6 +43,12 @@ nav > ul > li > button {
   color: #FFFFFF;
 }
 
+#button-logIn:hover {
+  border: 1px solid #665AE1;
+  background-color: #FFFFFF;
+  color: #665AE1;
+}
+
 #div-container {
   display: flex;
   margin-top: 30px;
