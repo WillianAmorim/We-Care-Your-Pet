@@ -50,7 +50,7 @@
   height: 64px;
   width: 239px;
   border-radius: 20.5px;
-  border: #ADFF00;
+  border: 1px solid #ADFF00;
   font-weight: 700;
   font-size: 28px;
   line-height: 34px;
@@ -191,5 +191,10 @@
 
   #button-explore {
     padding: 10px;
+  }
+
+  #button-explore:hover {
+    border: 1px solid #ADFF00;
+    background-color: #FFFFFF;
   }
 }
