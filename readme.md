@@ -1,4 +1,4 @@
-# Título do Projeto
+# We Care Your Pet
 
 Este projeto é uma landing page de uma empresa de Pet Shop, onde existe um menu para qualquer coisa que o cliente deseje. 
 
